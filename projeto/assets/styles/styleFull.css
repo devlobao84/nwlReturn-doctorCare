@@ -1,0 +1,7 @@
+/* Import full files CSS */
+
+@import url(/projeto/assets/styles/reset.css);
+@import url(/projeto/assets/styles/roots.css);
+@import url(/projeto/assets/styles/styleDesktop.css);
+@import url(/projeto/assets/styles/styleMobileFirst.css);
+@import url(/projeto/assets/styles/presetFont.css);
