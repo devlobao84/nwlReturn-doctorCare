@@ -4,15 +4,17 @@
     --brand-green-light: hwb(148 86% 9%);
     --brand-green-hover: hsl(170, 100%, 14%);
     --brand-green-dark: hsl(170, 100%, 26%); 
-    --dark-grey-text: hsl(210, 9%, 31%);
-    --dark-text: hsl(210, 11%, 15%);
+    --brand-green-light: hsl(148, 23%, 89%);
+    --paragraph: hsl(210, 9%, 31%);
+    --headline: hsl(210, 11%, 15%);
     --Primary-color-brand-beige: hsl(39, 100%, 97%);
     --brand-green-light-02: hsl(180, 14%, 97%);
     --text-gray-headline: hsl(210, 11%, 15%); 
-    --White-text: hsl(0, 0%, 100%);
+    --white-text: hsl(0, 0%, 100%);
     
     /* Defaults Fonts */
 
     --font-family-default: 'DM Sans',sans-serif;
+    font-size:  62.5%;
 }
 
