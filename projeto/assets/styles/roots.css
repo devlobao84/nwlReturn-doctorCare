@@ -10,11 +10,11 @@
     --Primary-color-brand-beige: hsl(39, 100%, 97%);
     --brand-green-light-02: hsl(180, 14%, 97%);
     --text-gray-headline: hsl(210, 11%, 15%); 
-    --white-text: hsl(0, 0%, 100%);
-    
+    --white-text: hsl(0, 0%, 100%);    
     /* Defaults Fonts */
-
     --font-family-default: 'DM Sans',sans-serif;
     font-size:  62.5%;
+    /* Medidas */
+    --nav-height: 7.2rem;
 }
 
